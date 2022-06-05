@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Karam</h1>
 <h3 align="center">A front end developer from morocco</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karam-koujan&label=Profile%20views&color=0e75b6&style=flat" alt="karam-koujan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karam-koujan" alt="karam-koujan" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/karamkaku" target="blank"><img src="https://img.shields.io/twitter/follow/karamkaku?logo=twitter&style=for-the-badge" alt="karamkaku" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://karam.vercel.app](https://karam.vercel.app)
+
+- 📝 I regularly write articles on [https://dev.to/karamkoujan](https://dev.to/karamkoujan)
+
+- 📫 How to reach me **karamkoujandev@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam-koujan&show_icons=true&locale=en&layout=compact" alt="karam-koujan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karam-koujan&show_icons=true&locale=en" alt="karam-koujan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karam-koujan&" alt="karam-koujan" /></p>
